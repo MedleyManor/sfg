@@ -1,0 +1,24 @@
+{
+  "id": "basil",
+  "name": "Basil",
+  "variety_note": "Large leaf variety = 1/sqft, small leaf = 4/sqft",
+  "season_type": "warm",
+  "per_sqft": 1,
+  "height": "1-2 ft",
+  "min_depth_inches": 6,
+  "weeks_to_harvest": 12,
+  "edible_season": "Summer",
+  "seed_storage_years": 2,
+  "start_from": "transplant",
+  "zone_9a": {
+    "spring_plant": "Mar–Apr",
+    "fall_plant": "Sept",
+    "harvest_window": "May–Nov (continuous harvest)"
+  },
+  "companions": {
+    "friends": ["tomatoes", "peppers", "radishes"],
+    "foes": ["sage"]
+  },
+  "pest_notes": "Deters aphids. Reportedly improves tomato flavor. Strong scent confuses many pests.",
+  "container_notes": "Pinch flowers to keep producing leaves. Heat tolerant for Texas."
+}

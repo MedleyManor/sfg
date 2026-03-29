@@ -1,0 +1,25 @@
+{
+  "id": "oregano",
+  "name": "Oregano",
+  "variety_note": "Perennial — stays in its tote year-round",
+  "season_type": "perennial",
+  "per_sqft": 1,
+  "height": "1-2 ft",
+  "min_depth_inches": 6,
+  "weeks_to_harvest": 16,
+  "harvest_type": "continuous once established",
+  "edible_season": "Spring to fall",
+  "seed_storage_years": null,
+  "start_from": "transplant",
+  "zone_9a": {
+    "spring_plant": "anytime",
+    "fall_plant": "anytime",
+    "harvest_window": "Mar–Nov"
+  },
+  "companions": {
+    "friends": ["peppers", "tomatoes"],
+    "foes": []
+  },
+  "pest_notes": "General pest deterrent due to strong scent.",
+  "container_notes": "Drought tolerant. Spreads — container keeps it controlled. Cut back in late winter."
+}

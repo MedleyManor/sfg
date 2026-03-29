@@ -1,0 +1,25 @@
+{
+  "id": "squash",
+  "name": "Summer Squash",
+  "variety_note": "Large sprawling plant — needs full tote",
+  "season_type": "warm",
+  "per_sqft": 0.5,
+  "per_sqft_note": "1 plant per 2 square feet",
+  "height": "bush or vine",
+  "min_depth_inches": 10,
+  "weeks_to_harvest": 8,
+  "edible_season": "Summer",
+  "seed_storage_years": 5,
+  "start_from": "transplant",
+  "zone_9a": {
+    "spring_plant": "Mar–Apr",
+    "fall_plant": "Aug",
+    "harvest_window": "Jun–Sept"
+  },
+  "companions": {
+    "friends": ["beans", "corn", "peas", "radishes", "marigold", "calendula"],
+    "foes": ["potatoes"]
+  },
+  "pest_notes": "French marigold deters whitefly. Calendula attracts pollinators for squash flowers.",
+  "container_notes": "Needs full tote (2 sqft). Vines will trail over edges. Heavy feeder."
+}

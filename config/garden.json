@@ -1,0 +1,134 @@
+{
+  "garden_name": "Medley Manor Garden",
+  "zone": "9a",
+  "location": "Bastrop, TX",
+  "growing_season_days": 270,
+  "last_frost": "Mid-February",
+  "first_frost": "Late November",
+  "tote_dimensions": {
+    "length_inches": 27,
+    "width_inches": 17,
+    "depth_inches": 12,
+    "sqft_per_tote": 2
+  },
+  "carts": [
+    {
+      "id": 1,
+      "name": "Tomato Cart",
+      "station": "full_sun",
+      "totes": [
+        {
+          "id": "1A",
+          "sq1": { "plant": "tomato", "count": 1 },
+          "sq2": { "plant": "basil", "count": 1 },
+          "note": "Classic companions — basil deters aphids, improves tomato flavor"
+        },
+        {
+          "id": "1B",
+          "sq1": { "plant": "cherry_tomato", "count": 1 },
+          "sq2": { "plant": "dill", "count": 1 },
+          "note": "Friends per companion chart. Dill attracts beneficial insects."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Pepper Cart",
+      "station": "full_sun",
+      "station_note": "Move to afternoon shade when cilantro starts bolting",
+      "totes": [
+        {
+          "id": "2A",
+          "sq1": { "plant": "jalapeno", "count": 1 },
+          "sq2": { "plant": "cilantro", "count": 1 },
+          "note": "Cilantro is a listed friend of peppers. When cilantro bolts, replace with radishes."
+        },
+        {
+          "id": "2B",
+          "sq1": { "plant": "green_bell_pepper", "count": 1 },
+          "sq2": { "plant": "red_bell_pepper", "count": 1 },
+          "note": "Same family, same water/sun needs"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Squash Cart",
+      "station": "full_sun",
+      "totes": [
+        {
+          "id": "3A",
+          "sq1": { "plant": "squash", "count": 1 },
+          "sq2": { "plant": "squash", "count": null },
+          "full_tote": true,
+          "note": "Full tote for one squash plant. Add marigold in corner if space.",
+          "fall_rotation": { "plant": "carrots", "count": 16, "plant_date": "Sept" }
+        },
+        {
+          "id": "3B",
+          "sq1": { "plant": "zucchini", "count": 1 },
+          "sq2": { "plant": "zucchini", "count": null },
+          "full_tote": true,
+          "note": "Full tote for one zucchini plant. Add calendula in corner for pollination.",
+          "fall_rotation": { "plant": "beets", "count": 9, "plant_date": "Sept" }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Cucumber + Herb Cart",
+      "station": "full_sun",
+      "totes": [
+        {
+          "id": "4A",
+          "sq1": { "plant": "cucumber", "count": 2 },
+          "sq2": { "plant": null, "count": null },
+          "full_tote_note": "Give cucumber room to vine. Optional: add radishes from seed in sq2.",
+          "fall_rotation": { "plant": "garlic", "count": 9, "plant_date": "Oct–Nov" }
+        },
+        {
+          "id": "4B",
+          "sq1": { "plant": "rosemary", "count": 1 },
+          "sq2": { "plant": "oregano", "count": 1 },
+          "note": "Both perennials. Year-round tote — no rotation needed."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Greens Cart",
+      "station": "shade",
+      "station_note": "Partial/afternoon shade — this is the cool-season cart",
+      "totes": [
+        {
+          "id": "5A",
+          "sq1": { "plant": "cabbage", "count": 1 },
+          "sq2": { "plant": "lettuce", "count": 4 },
+          "note": "Friends. Cabbage = 16 weeks. Lettuce = 7 weeks with succession."
+        },
+        {
+          "id": "5B",
+          "sq1": { "plant": "lettuce", "count": 4 },
+          "sq2": { "plant": null, "count": null },
+          "note": "Lettuce succession: plant sq1 now, sq2 in 3 weeks. Rotate rounds."
+        }
+      ]
+    }
+  ],
+  "future_totes": [
+    {
+      "id": "6A",
+      "plant": "potato",
+      "count": 1,
+      "plant_date": "Jan–Feb",
+      "note": "Needs own tote. Plant next Jan or Aug for fall crop."
+    },
+    {
+      "id": "6B",
+      "plant": "beans",
+      "count": 9,
+      "plant_date": "Mar–May",
+      "note": "Bush beans. Fixes nitrogen — great after heavy feeders."
+    }
+  ]
+}

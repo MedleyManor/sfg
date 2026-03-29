@@ -1,0 +1,24 @@
+{
+  "id": "dill",
+  "name": "Dill",
+  "variety_note": "Attracts beneficial insects, good cut herb",
+  "season_type": "warm",
+  "per_sqft": 1,
+  "height": "3 ft",
+  "min_depth_inches": 6,
+  "weeks_to_harvest": 5,
+  "edible_season": "Summer",
+  "seed_storage_years": 4,
+  "start_from": "transplant or seed",
+  "zone_9a": {
+    "spring_plant": "Mar–Apr",
+    "fall_plant": "Sept–Oct",
+    "harvest_window": "May–Oct"
+  },
+  "companions": {
+    "friends": ["tomatoes", "cabbage", "lettuce"],
+    "foes": ["carrots"]
+  },
+  "pest_notes": "Attracts ladybugs and lacewings (aphid predators).",
+  "container_notes": "Will bolt and go to seed — let it self-sow or collect seeds. KEEP AWAY FROM CARROTS."
+}

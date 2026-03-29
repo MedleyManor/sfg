@@ -1,0 +1,24 @@
+{
+  "id": "cucumber",
+  "name": "Cucumber",
+  "variety_note": "Vine — trellis or let trail over tote edge",
+  "season_type": "warm",
+  "per_sqft": 2,
+  "height": "vine",
+  "min_depth_inches": 8,
+  "weeks_to_harvest": 9,
+  "edible_season": "Summer",
+  "seed_storage_years": 5,
+  "start_from": "transplant",
+  "zone_9a": {
+    "spring_plant": "Mar–Apr",
+    "fall_plant": null,
+    "harvest_window": "Jun–Sept"
+  },
+  "companions": {
+    "friends": ["beans", "cabbage", "cauliflower", "corn", "lettuce", "peas", "radishes", "sunflowers"],
+    "foes": ["herbs", "melons", "potatoes"]
+  },
+  "pest_notes": "Keep away from aromatic herbs. Radishes as trap crop for cucumber beetles.",
+  "container_notes": "Give full tote (2 sqft) for 2 plants. Trellis saves space."
+}

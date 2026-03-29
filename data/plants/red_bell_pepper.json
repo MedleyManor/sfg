@@ -1,0 +1,24 @@
+{
+  "id": "red_bell_pepper",
+  "name": "Red Bell Pepper",
+  "variety_note": "Sweet pepper — takes longer than green (must fully ripen)",
+  "season_type": "warm",
+  "per_sqft": 1,
+  "height": "12-24 in",
+  "min_depth_inches": 8,
+  "weeks_to_harvest": 22,
+  "edible_season": "Summer",
+  "seed_storage_years": 4,
+  "start_from": "transplant",
+  "zone_9a": {
+    "spring_plant": "Mar–Apr",
+    "fall_plant": "Aug transplant",
+    "harvest_window": "Jul–Nov"
+  },
+  "companions": {
+    "friends": ["basil", "cilantro", "onions", "spinach", "tomatoes"],
+    "foes": ["beans", "kohlrabi"]
+  },
+  "pest_notes": "Basil and cilantro deter aphids.",
+  "container_notes": "12-inch depth is fine. Needs more time on vine than green bell."
+}

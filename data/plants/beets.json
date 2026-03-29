@@ -1,0 +1,24 @@
+{
+  "id": "beets",
+  "name": "Beets",
+  "variety_note": "Eat roots and greens — dual harvest",
+  "season_type": "cool",
+  "per_sqft": 9,
+  "height": "12 in",
+  "min_depth_inches": 8,
+  "weeks_to_harvest": 8,
+  "edible_season": "Spring to fall",
+  "seed_storage_years": 4,
+  "start_from": "seed",
+  "zone_9a": {
+    "spring_plant": "Feb–Mar",
+    "fall_plant": "Sept–Oct (best season)",
+    "harvest_window": "8 weeks from sowing"
+  },
+  "companions": {
+    "friends": ["beans", "cabbage", "lettuce", "onions"],
+    "foes": ["pole_beans"]
+  },
+  "pest_notes": "Generally pest-free in containers.",
+  "container_notes": "12-inch depth is plenty. Direct sow. Each seed cluster produces multiple seedlings — thin to strongest."
+}

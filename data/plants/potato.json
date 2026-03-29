@@ -1,0 +1,25 @@
+{
+  "id": "potato",
+  "name": "Potato",
+  "variety_note": "Use small/fingerling varieties for shallow containers",
+  "season_type": "cool",
+  "per_sqft": 1,
+  "height": "12-24 in",
+  "min_depth_inches": 12,
+  "min_depth_note": "12 inches is the absolute minimum — yield will be smaller",
+  "weeks_to_harvest": 12,
+  "edible_season": "Spring to fall",
+  "seed_storage_years": null,
+  "start_from": "seed potato",
+  "zone_9a": {
+    "spring_plant": "Jan–Feb",
+    "fall_plant": "Aug–Sept",
+    "harvest_window": "12 weeks from planting"
+  },
+  "companions": {
+    "friends": ["beans", "cabbage", "corn", "lettuce", "onions", "radishes"],
+    "foes": ["tomatoes", "cucumbers", "squash", "sunflowers"]
+  },
+  "pest_notes": "Keep far from tomatoes — share blight diseases.",
+  "container_notes": "12-inch totes are tight. Fill soil only halfway, add more as plant grows. Smaller yield than ground planting but still worthwhile. Needs own tote."
+}

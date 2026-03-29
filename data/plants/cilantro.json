@@ -1,0 +1,26 @@
+{
+  "id": "cilantro",
+  "name": "Cilantro",
+  "variety_note": "Bolts fast in heat — becomes coriander seed",
+  "season_type": "cool",
+  "per_sqft": 1,
+  "height": "1-2 ft",
+  "min_depth_inches": 6,
+  "weeks_to_harvest": 5,
+  "harvest_type": "leaves",
+  "edible_season": "Late spring, summer",
+  "seed_storage_years": null,
+  "seed_storage_note": "12 seeds per packet typical",
+  "start_from": "transplant or seed",
+  "zone_9a": {
+    "spring_plant": "Feb–Mar",
+    "fall_plant": "Oct–Nov (best season)",
+    "harvest_window": "4-6 weeks before bolt"
+  },
+  "companions": {
+    "friends": ["peppers", "radishes", "tomatoes"],
+    "foes": []
+  },
+  "pest_notes": "Attracts beneficial insects when flowering.",
+  "container_notes": "WILL bolt by June in Texas. Let it seed, collect coriander, replant in fall. Move to shade to extend harvest. Succession sow every 3 weeks."
+}

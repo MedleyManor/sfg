@@ -1,0 +1,25 @@
+{
+  "id": "rosemary",
+  "name": "Rosemary",
+  "variety_note": "Perennial — stays in its tote year-round",
+  "season_type": "perennial",
+  "per_sqft": 1,
+  "height": "1-3 ft",
+  "min_depth_inches": 6,
+  "weeks_to_harvest": null,
+  "harvest_type": "continuous",
+  "edible_season": "Year-round",
+  "seed_storage_years": null,
+  "start_from": "transplant",
+  "zone_9a": {
+    "spring_plant": "anytime",
+    "fall_plant": "anytime",
+    "harvest_window": "Year-round"
+  },
+  "companions": {
+    "friends": ["carrots", "cabbage", "beans"],
+    "foes": []
+  },
+  "pest_notes": "Deters carrot fly, cabbage moth, and bean beetles. Strong scent confuses many pests.",
+  "container_notes": "Drought tolerant, loves Texas heat. Don't overwater. Perennial — no rotation needed."
+}

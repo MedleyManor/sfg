@@ -1,0 +1,26 @@
+{
+  "id": "garlic",
+  "name": "Garlic",
+  "variety_note": "Plant individual cloves, not whole bulbs",
+  "season_type": "cool",
+  "per_sqft": 9,
+  "per_sqft_note": "4 for large varieties, 9 for small",
+  "height": "18-24 in",
+  "min_depth_inches": 6,
+  "weeks_to_harvest": 12,
+  "edible_season": "Summer, fall",
+  "seed_storage_years": null,
+  "seed_storage_note": "Does not store as seed — plant cloves",
+  "start_from": "cloves",
+  "zone_9a": {
+    "spring_plant": null,
+    "fall_plant": "Oct–Nov",
+    "harvest_window": "Mar–Apr (spring harvest from fall planting)"
+  },
+  "companions": {
+    "friends": ["tomatoes", "peppers", "lettuce", "carrots", "beets"],
+    "foes": ["beans", "peas"]
+  },
+  "pest_notes": "Deters aphids. Strong scent confuses many pests. Natural fungicide properties.",
+  "container_notes": "Plant cloves 2 inches deep, pointy end up. 6-inch depth is plenty. Low maintenance over winter."
+}

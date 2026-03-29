@@ -1,0 +1,31 @@
+{
+  "id": "lettuce",
+  "name": "Leaf Lettuce",
+  "variety_note": "Cut-and-come-again varieties extend harvest",
+  "season_type": "cool",
+  "per_sqft": 4,
+  "height": "6-12 in",
+  "min_depth_inches": 4,
+  "weeks_to_harvest": 7,
+  "edible_season": "Spring, fall, winter",
+  "seed_storage_years": 5,
+  "start_from": "transplant or seed",
+  "zone_9a": {
+    "spring_plant": "Feb–Apr",
+    "fall_plant": "Sept–Nov (best season)",
+    "harvest_window": "7 weeks from planting, succession sow every 2-3 weeks"
+  },
+  "companions": {
+    "friends": ["carrots", "corn", "cucumbers", "onions", "peas", "potatoes", "radishes", "spinach", "strawberry", "tomatoes", "beets", "cabbage"],
+    "foes": ["broccoli"]
+  },
+  "pest_notes": "Interplant with chives or garlic to deter aphids.",
+  "container_notes": "Bolt-prone in heat — shade cart essential May onward. Succession plant every 2-3 weeks for continuous harvest. Shallow roots — 4-inch depth is enough.",
+  "succession_plan": {
+    "interval_weeks": 3,
+    "spring_rounds": 3,
+    "summer_pause": "Jun–Aug (too hot even in shade)",
+    "fall_rounds": 4,
+    "note": "4 plants per sqft, 7 weeks to harvest = always have salad ready"
+  }
+}

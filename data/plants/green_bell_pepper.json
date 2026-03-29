@@ -1,0 +1,24 @@
+{
+  "id": "green_bell_pepper",
+  "name": "Green Bell Pepper",
+  "variety_note": "Sweet pepper, harvest green or let ripen further",
+  "season_type": "warm",
+  "per_sqft": 1,
+  "height": "12-24 in",
+  "min_depth_inches": 8,
+  "weeks_to_harvest": 19,
+  "edible_season": "Summer",
+  "seed_storage_years": 4,
+  "start_from": "transplant",
+  "zone_9a": {
+    "spring_plant": "Mar–Apr",
+    "fall_plant": "Aug transplant",
+    "harvest_window": "Jul–Nov"
+  },
+  "companions": {
+    "friends": ["basil", "cilantro", "onions", "spinach", "tomatoes"],
+    "foes": ["beans", "kohlrabi"]
+  },
+  "pest_notes": "Basil and cilantro deter aphids.",
+  "container_notes": "12-inch depth is fine. May need light staking when heavy with fruit."
+}

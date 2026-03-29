@@ -1,0 +1,24 @@
+{
+  "id": "cherry_tomato",
+  "name": "Cherry Tomato",
+  "variety_note": "Prolific producer — expect heavy yields from one plant",
+  "season_type": "warm",
+  "per_sqft": 1,
+  "height": "3-6 ft",
+  "min_depth_inches": 10,
+  "weeks_to_harvest": 12,
+  "edible_season": "Summer",
+  "seed_storage_years": 4,
+  "start_from": "transplant",
+  "zone_9a": {
+    "spring_plant": "Feb–Mar",
+    "fall_plant": "Jul–Aug (transplant out Sept)",
+    "harvest_window": "Jun–Oct"
+  },
+  "companions": {
+    "friends": ["basil", "beans", "carrots", "celery", "dill", "lettuce", "onions", "parsley", "peppers", "radishes", "spinach", "thyme"],
+    "foes": ["broccoli", "brussels_sprouts", "cabbage", "cauliflower", "corn", "kale", "potatoes"]
+  },
+  "pest_notes": "Basil deters aphids and improves flavor.",
+  "container_notes": "Needs staking or caging. Will cascade over tote edges."
+}

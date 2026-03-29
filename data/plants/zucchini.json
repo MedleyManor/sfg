@@ -1,0 +1,25 @@
+{
+  "id": "zucchini",
+  "name": "Zucchini",
+  "variety_note": "Prolific — one plant produces heavily",
+  "season_type": "warm",
+  "per_sqft": 0.5,
+  "per_sqft_note": "1 plant per 2 square feet",
+  "height": "bush or vine",
+  "min_depth_inches": 10,
+  "weeks_to_harvest": 8,
+  "edible_season": "Summer",
+  "seed_storage_years": 5,
+  "start_from": "transplant",
+  "zone_9a": {
+    "spring_plant": "Mar–Apr",
+    "fall_plant": "Aug",
+    "harvest_window": "Jun–Sept"
+  },
+  "companions": {
+    "friends": ["beans", "corn", "peas", "radishes", "marigold", "calendula"],
+    "foes": ["potatoes"]
+  },
+  "pest_notes": "Calendula attracts pollinators. French marigold deters whitefly.",
+  "container_notes": "Needs full tote (2 sqft). Will produce more than you expect from one plant."
+}

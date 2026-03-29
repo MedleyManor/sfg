@@ -1,0 +1,25 @@
+{
+  "id": "carrots",
+  "name": "Carrots",
+  "variety_note": "Use SHORT varieties (Paris Market, Chantenay) for 12-inch totes",
+  "season_type": "cool",
+  "per_sqft": 16,
+  "height": "12 in",
+  "min_depth_inches": 8,
+  "min_depth_note": "Short varieties only — long varieties need 12-18 in",
+  "weeks_to_harvest": 10,
+  "edible_season": "Spring to fall",
+  "seed_storage_years": 3,
+  "start_from": "seed (no transplants for root vegetables)",
+  "zone_9a": {
+    "spring_plant": "Jan–Feb",
+    "fall_plant": "Sept–Oct (best season)",
+    "harvest_window": "10-12 weeks from sowing"
+  },
+  "companions": {
+    "friends": ["beans", "lettuce", "onions", "parsley", "peas", "radishes", "rosemary", "sage", "tomatoes"],
+    "foes": ["dill", "anise"]
+  },
+  "pest_notes": "Spring onions and mint deter carrot root fly. Rosemary also helps. KEEP AWAY FROM DILL.",
+  "container_notes": "Must be direct sown — no transplants exist. Short varieties critical for tote depth. Thin to 3-inch spacing."
+}
